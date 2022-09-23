@@ -10,8 +10,6 @@ import org.lwjgl.openal.AL;
 import org.lwjgl.openal.ALC;
 import org.lwjgl.openal.ALCCapabilities;
 
-import turd.game.entities.Player;
-
 import static org.lwjgl.openal.ALC10.*;
 import static org.lwjgl.system.MemoryUtil.*;
 import org.joml.Vector3f;
